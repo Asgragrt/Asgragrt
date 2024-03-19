@@ -30,7 +30,7 @@ Current features:
     <li><a href="https://github.com/Asgragrt/KeyTao_schematic">KeyTao schematic / PCB</a> </li>
     <li><a href="https://github.com/Asgragrt/KeyTao_firmware">KeyTao rust firmware</a> </li>
     <li><a href="https://github.com/Asgragrt/firmware_c">KeyTao C firmware</a> </li>
-    <li><a href="https://github.com/Asgragrt/KeyTao_case">KeyTao C + FreeRTOS firmware</a> </li>
+    <li><a href="https://github.com/Asgragrt/firmware-rtos">KeyTao C + FreeRTOS firmware</a> </li>
     </ul>
 </details>
 
