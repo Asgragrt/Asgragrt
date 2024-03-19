@@ -1,17 +1,11 @@
 ### Hi there 👋
 
-<!--
-**Asgragrt/Asgragrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a windows app for controlling [KeyTao](#keytao) settings through HID in-out.
 - 🌱 I’m currently learning C# and Rust.
 - 👯 I’m looking to collaborate on Muse Dash mods or AI projects.
+- 💼 I've worked on image (pattern) recognition with tensorflow and keras on python.
 
-![github-stats-overview]
-![github-stats-languages]
+![github-stats-overview] ![github-stats-languages]
 
 [github-stats-overview]: https://raw.githubusercontent.com/Asgragrt/github-stats/master/generated/overview.svg#gh-dark-mode-only
 
@@ -28,6 +22,17 @@ Current features:
 * N-Key Rollover (NKRO).
 * Store macros per key (up to 4 keys).
 * 6 LED lightning modes.
+
+<details>
+<summary>KeyTao repos</summary>
+    <ul>
+    <li><a href="https://github.com/Asgragrt/KeyTao_case">KeyTao case</a> </li>
+    <li><a href="https://github.com/Asgragrt/KeyTao_schematic">KeyTao schematic / PCB</a> </li>
+    <li><a href="https://github.com/Asgragrt/KeyTao_firmware">KeyTao rust firmware</a> </li>
+    <li><a href="https://github.com/Asgragrt/firmware_c">KeyTao C firmware</a> </li>
+    <li><a href="https://github.com/Asgragrt/KeyTao_case">KeyTao C + FreeRTOS firmware</a> </li>
+    </ul>
+</details>
 
 <details>
 <summary>KeyTao pictures</summary>
@@ -53,6 +58,7 @@ Current features:
 * [GearBox](https://github.com/Asgragrt/GearBox)
 
 Contributions:
+
 * [MuseDashMirror](https://github.com/MDMods/MuseDashMirror)
 * [HiddenQol](https://github.com/MDMods/HiddenQol)
 
