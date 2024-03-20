@@ -25,13 +25,13 @@ Current features:
 
 <details>
 <summary>KeyTao repos</summary>
-    <ul>
-    <li><a href="https://github.com/Asgragrt/KeyTao_case">KeyTao case</a> </li>
-    <li><a href="https://github.com/Asgragrt/KeyTao_schematic">KeyTao schematic / PCB</a> </li>
-    <li><a href="https://github.com/Asgragrt/KeyTao_firmware">KeyTao rust firmware</a> </li>
-    <li><a href="https://github.com/Asgragrt/firmware_c">KeyTao C firmware</a> </li>
-    <li><a href="https://github.com/Asgragrt/firmware-rtos">KeyTao C + FreeRTOS firmware</a> </li>
-    </ul>
+
+* [KeyTao case](https://github.com/Asgragrt/KeyTao_case)
+* [KeyTao schematic](https://github.com/Asgragrt/KeyTao_schematic)
+* [KeyTao rust firmware](https://github.com/Asgragrt/KeyTao_firmware)
+* [KeyTao C firmware](https://github.com/Asgragrt/firmware_c)
+* [**KeyTao C FreeRTOS firmware**](https://github.com/Asgragrt/firmware-rtos)
+
 </details>
 
 <details>
@@ -48,18 +48,15 @@ Current features:
 
 ***
 
-<details>
-<summary>MuseDash Modding</summary>
+### MuseDash Modding
 
-* [CurrentCombination](https://github.com/MDMods/CurrentCombination)
-* [SelectiveEffects](https://github.com/MDMods/SelectiveEffects)
-* [FadeIn](https://github.com/Asgragrt/FadeIn)
-* [StricterJudge](https://github.com/Asgragrt/StricterJudge)
-* [GearBox](https://github.com/Asgragrt/GearBox)
+[![CurrentCombination](https://github-readme-stats-asgra.vercel.app/api/pin/?username=asgragrt&repo=CurrentCombination&theme=radical)](https://github.com/MDMods/CurrentCombination)
+[![SelectiveEffects](https://github-readme-stats-asgra.vercel.app/api/pin/?username=asgragrt&repo=SelectiveEffects&theme=radical)](https://github.com/MDMods/SelectiveEffects)
+[![FadeIn](https://github-readme-stats-asgra.vercel.app/api/pin/?username=asgragrt&repo=FadeIn&theme=radical)](https://github.com/MDMods/FadeIn)
+[![StricterJudge](https://github-readme-stats-asgra.vercel.app/api/pin/?username=asgragrt&repo=StricterJudge&theme=radical)](https://github.com/MDMods/StricterJudge)
+[![GearBox](https://github-readme-stats-asgra.vercel.app/api/pin/?username=asgragrt&repo=Gearbox&theme=radical)](https://github.com/Asgragrt/GearBox)
 
 Contributions:
 
 * [MuseDashMirror](https://github.com/MDMods/MuseDashMirror)
 * [HiddenQol](https://github.com/MDMods/HiddenQol)
-
-</details>
