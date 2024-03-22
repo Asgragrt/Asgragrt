@@ -60,9 +60,12 @@ Current features:
 * ✨ Store macros per key (up to 4 keys).
 * 🔆 6 LED lightning modes.
 
-|             KeyTao              |                   PCB                   |
-|:-------------------------------:|:---------------------------------------:|
-| ![KeyTao.png](Media/KeyTao.png) | ![KeyTao_PCB.jpg](Media/KeyTao_PCB.jpg) |
+|        KeyTao        |           PCB            |
+|:--------------------:|:------------------------:|
+| ![KeyTao][KeyTaoImg] | ![KeyTao PCB][KeyTaoPCB] |
+
+[KeyTaoImg]: Media/KeyTao.png
+[KeyTaoPCB]: Media/KeyTao_PCB.jpg
 
 <details>
 <summary>KeyTao repos</summary>
