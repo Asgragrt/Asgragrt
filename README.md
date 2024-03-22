@@ -57,6 +57,10 @@ Current features:
 * ✨ Store macros per key (up to 4 keys).
 * 🔆 6 LED lightning modes.
 
+|             KeyTao              |                   PCB                   |
+|:-------------------------------:|:---------------------------------------:|
+| ![KeyTao.png](Media/KeyTao.png) | ![KeyTao_PCB.jpg](Media/KeyTao_PCB.jpg) |
+
 <details>
 <summary>KeyTao repos</summary>
 
@@ -66,18 +70,6 @@ Current features:
 * [KeyTao C firmware](https://github.com/Asgragrt/firmware_c)
 * [**KeyTao C FreeRTOS firmware**](https://github.com/Asgragrt/firmware-rtos) &larr; Current active version
 
-</details>
-
-<details>
-<summary>KeyTao pictures</summary>
-
-##### KeyTao
-
-![KeyTao.png](Media/KeyTao.png)
-
-##### KeyTao PCB
-
-![KeyTao_PCB.jpg](Media/KeyTao_PCB.jpg)
 </details>
 
 ***
