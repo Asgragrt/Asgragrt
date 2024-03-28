@@ -82,12 +82,12 @@ Current features:
 
 ### MuseDash Modding
 
-[![CurrentCombination](https://github-readme-stats-asgra.vercel.app/api/pin/?username=asgragrt&repo=CurrentCombination&theme=radical)](https://github.com/MDMods/CurrentCombination)
-[![SelectiveEffects](https://github-readme-stats-asgra.vercel.app/api/pin/?username=asgragrt&repo=SelectiveEffects&theme=radical)](https://github.com/MDMods/SelectiveEffects)
-[![FadeIn](https://github-readme-stats-asgra.vercel.app/api/pin/?username=asgragrt&repo=FadeIn&theme=radical)](https://github.com/MDMods/FadeIn)
-[![StricterJudge](https://github-readme-stats-asgra.vercel.app/api/pin/?username=asgragrt&repo=StricterJudge&theme=radical)](https://github.com/MDMods/StricterJudge)
-[![GearBox](https://github-readme-stats-asgra.vercel.app/api/pin/?username=asgragrt&repo=Gearbox&theme=radical)](https://github.com/Asgragrt/GearBox)
-[![GearBox](https://github-readme-stats-asgra.vercel.app/api/pin/?username=asgragrt&repo=RomajiSongName&theme=radical)](https://github.com/Asgragrt/RomajiSongName)
+[![CurrentCombination](https://github-readme-stats-asgra.vercel.app/api/pin/?username=asgragrt&repo=CurrentCombination&theme=dracula)](https://github.com/MDMods/CurrentCombination)
+[![SelectiveEffects](https://github-readme-stats-asgra.vercel.app/api/pin/?username=asgragrt&repo=SelectiveEffects&theme=dracula)](https://github.com/MDMods/SelectiveEffects)
+[![FadeIn](https://github-readme-stats-asgra.vercel.app/api/pin/?username=asgragrt&repo=FadeIn&theme=dracula)](https://github.com/MDMods/FadeIn)
+[![StricterJudge](https://github-readme-stats-asgra.vercel.app/api/pin/?username=asgragrt&repo=StricterJudge&theme=dracula)](https://github.com/MDMods/StricterJudge)
+[![GearBox](https://github-readme-stats-asgra.vercel.app/api/pin/?username=asgragrt&repo=Gearbox&theme=dracula)](https://github.com/Asgragrt/GearBox)
+[![GearBox](https://github-readme-stats-asgra.vercel.app/api/pin/?username=asgragrt&repo=RomajiSongName&theme=dracula)](https://github.com/Asgragrt/RomajiSongName)
 
 Contributions:
 
