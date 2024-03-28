@@ -87,6 +87,7 @@ Current features:
 [![FadeIn](https://github-readme-stats-asgra.vercel.app/api/pin/?username=asgragrt&repo=FadeIn&theme=radical)](https://github.com/MDMods/FadeIn)
 [![StricterJudge](https://github-readme-stats-asgra.vercel.app/api/pin/?username=asgragrt&repo=StricterJudge&theme=radical)](https://github.com/MDMods/StricterJudge)
 [![GearBox](https://github-readme-stats-asgra.vercel.app/api/pin/?username=asgragrt&repo=Gearbox&theme=radical)](https://github.com/Asgragrt/GearBox)
+[![GearBox](https://github-readme-stats-asgra.vercel.app/api/pin/?username=asgragrt&repo=RomajiSongName&theme=radical)](https://github.com/Asgragrt/RomajiSongName)
 
 Contributions:
 
