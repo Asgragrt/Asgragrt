@@ -86,8 +86,11 @@ Current features:
 [![SelectiveEffects](https://github-readme-stats-asgra.vercel.app/api/pin/?username=asgragrt&repo=SelectiveEffects&theme=vision-friendly-dark)](https://github.com/MDMods/SelectiveEffects)
 [![FadeIn](https://github-readme-stats-asgra.vercel.app/api/pin/?username=asgragrt&repo=FadeIn&theme=vision-friendly-dark)](https://github.com/MDMods/FadeIn)
 [![StricterJudge](https://github-readme-stats-asgra.vercel.app/api/pin/?username=asgragrt&repo=StricterJudge&theme=vision-friendly-dark)](https://github.com/MDMods/StricterJudge)
+<!--
 [![GearBox](https://github-readme-stats-asgra.vercel.app/api/pin/?username=asgragrt&repo=Gearbox&theme=vision-friendly-dark)](https://github.com/Asgragrt/GearBox)
-[![GearBox](https://github-readme-stats-asgra.vercel.app/api/pin/?username=asgragrt&repo=RomajiSongName&theme=vision-friendly-dark)](https://github.com/Asgragrt/RomajiSongName)
+-->
+[![RomajiSongName](https://github-readme-stats-asgra.vercel.app/api/pin/?username=asgragrt&repo=RomajiSongName&theme=vision-friendly-dark)](https://github.com/Asgragrt/RomajiSongName)
+[![UnlockSpecialWelcomeScreens](https://github-readme-stats-asgra.vercel.app/api/pin/?username=asgragrt&repo=UnlockSpecialWelcomeScreens&theme=vision-friendly-dark)](https://github.com/Asgragrt/UnlockSpecialWelcomeScreens)
 
 Contributions:
 
