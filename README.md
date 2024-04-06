@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+* 🔧 I'm a Biomedical Engineering student.
 * 🔭 I’m currently working on a windows app for controlling [KeyTao](#keytao) settings through HID in-out.
 * 🌱 I’m currently learning C#, Rust, and graphics programming.
 * 👯 I’m looking to collaborate on Muse Dash mods or AI projects.
