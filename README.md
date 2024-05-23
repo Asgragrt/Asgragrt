@@ -83,17 +83,7 @@ Current features:
 
 ### MuseDash Modding
 
-[![CurrentCombination](https://github-readme-stats-asgra.vercel.app/api/pin/?username=asgragrt&repo=CurrentCombination&theme=vision-friendly-dark)](https://github.com/MDMods/CurrentCombination)
-[![SelectiveEffects](https://github-readme-stats-asgra.vercel.app/api/pin/?username=asgragrt&repo=SelectiveEffects&theme=vision-friendly-dark)](https://github.com/MDMods/SelectiveEffects)
-[![FadeIn](https://github-readme-stats-asgra.vercel.app/api/pin/?username=asgragrt&repo=FadeIn&theme=vision-friendly-dark)](https://github.com/MDMods/FadeIn)
-[![StricterJudge](https://github-readme-stats-asgra.vercel.app/api/pin/?username=asgragrt&repo=StricterJudge&theme=vision-friendly-dark)](https://github.com/MDMods/StricterJudge)
-[![RomajiSongName](https://github-readme-stats-asgra.vercel.app/api/pin/?username=asgragrt&repo=RomajiSongName&theme=vision-friendly-dark)](https://github.com/Asgragrt/RomajiSongName)
-[![UnlockSpecialWelcomeScreens](https://github-readme-stats-asgra.vercel.app/api/pin/?username=asgragrt&repo=UnlockSpecialWelcomeScreens&theme=vision-friendly-dark)](https://github.com/Asgragrt/UnlockSpecialWelcomeScreens)
-[![MenuCharacter](https://github-readme-stats-asgra.vercel.app/api/pin/?username=asgragrt&repo=MenuCharacter&theme=vision-friendly-dark)](https://github.com/Asgragrt/MenuCharacter)
-[![PeroPeroSkip](https://github-readme-stats-asgra.vercel.app/api/pin/?username=asgragrt&repo=PeroPeroSkip&theme=vision-friendly-dark)](https://github.com/Asgragrt/PeroPeroSkip)
-<!--
-[![GearBox](https://github-readme-stats-asgra.vercel.app/api/pin/?username=asgragrt&repo=Gearbox&theme=vision-friendly-dark)](https://github.com/Asgragrt/GearBox)
--->
+*[ModsLinks](https://github.com/Asgragrt/AsgraMDMods/blob/main/README.md)*
 
 Contributions:
 
